@@ -1,0 +1,3 @@
+echo 'git status'
+echo 'git add -A'
+echo 'git commit -asv -m ""'
